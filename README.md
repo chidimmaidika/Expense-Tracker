@@ -1,4 +1,4 @@
-# Expense-Tracker
+# Expense Tracker
 
 ![image](https://github.com/chidimmaidika/Expense-Tracker/assets/137975543/f7c6a26a-b9cb-4884-ab74-026616c77fa8)
 
@@ -10,6 +10,13 @@ The project includes two main classes, `Expense` and `ExpenseDatabase`, which al
 manage a collection of expenses efficiently._
 
 ---
+
+## Table of Contents
+- [Expense Class](#expense-class)
+- [ExpenseDatabase Class](#expensedatabase-class)
+- [Cloning the Repository](#cloning-the-repository)
+- [Running the Code](#running-the-code)
+- [Contributions](#contributions)
 
 ## Expense Class
 The `Expense` class represents an individual financial expense. It includes attributes such as a unique identifier, title, amount, and timestamps for creation and last update. 
@@ -36,7 +43,7 @@ This will demonstrate the basic functionality of the Expense and ExpenseDatabase
 
 _Feel free to explore and modify the code according to your needs._
 
-## Contributing
+## Contributions
 If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request.    
 Contributions are always welcome!
 
