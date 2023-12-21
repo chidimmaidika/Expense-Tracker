@@ -1,5 +1,4 @@
 # Expense-Tracker
-This is a Python project that models and manages financial expenses using object-oriented programming (OOP) concepts.
 
 ![image](https://github.com/chidimmaidika/Expense-Tracker/assets/137975543/f7c6a26a-b9cb-4884-ab74-026616c77fa8)
 
