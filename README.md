@@ -30,7 +30,7 @@ and converting the entire database to a list of dictionaries.
 ## Cloning the Repository
 To clone the repository, use the following command:
 ```python
-git clone https://github.com/chidimmaidika/expense-tracker.git
+git clone https://github.com/chidimmaidika/Expense-Tracker.git
 ```
 ## Running the Code
 Ensure you have Python installed on your machine. You can run the sample code provided in the `main.py` file:
